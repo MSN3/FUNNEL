@@ -1,0 +1,41 @@
+# FUNNEL runtime dependencies
+# Python 3.10
+#
+# These lower bounds support the APIs used by the supplied code. For an
+# archival release, replace them with exact versions exported from the
+# environment used to reproduce the final manuscript results.
+
+# Data processing and scientific computing
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+openpyxl>=3.1
+
+# Evaluation and figures
+matplotlib>=3.7
+seaborn>=0.12
+
+# Diagnostic matching and embeddings
+torch>=2.1
+sentence-transformers>=2.2
+fuzzywuzzy==0.18.0
+python-Levenshtein>=0.21
+
+# Agent orchestration and configuration
+langgraph>=0.2
+python-dotenv>=1.0
+
+# Model-provider clients
+openai>=1.0
+anthropic>=0.34
+google-genai>=1.0
+boto3>=1.28
+
+# Web-search tool used by the pipeline
+ddgs>=9.0
+
+# Self-hosted inference server:
+# Install vLLM separately on a supported Linux/CUDA host for an
+# OpenAI-compatible vLLM endpoint.
+vllm
