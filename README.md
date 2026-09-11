@@ -150,11 +150,11 @@ Refer to the manuscript for the final metric definitions and statistical analyse
 
 ## Citation and acknowledgements
 
-If you use this repository, cite the FUNNEL manuscript. Add the final bibliographic citation and DOI here after acceptance or public preprint release.
+If you use FUNNEL, please cite the associated manuscript. The final citation and DOI will be added after publication or public preprint release.
 
-The data-preparation workflow builds on the following resources:
+Please also cite the source datasets and preprocessing resources:
 
-1. Johnson A, Bulgarelli L, Pollard T, Horng S, Celi LA, Mark R. MIMIC-IV, version 2.2. PhysioNet. 2023. DOI: [10.13026/6mm1-ek67](https://doi.org/10.13026/6mm1-ek67).
-2. Pollard TJ, Johnson AEW, Raffa JD, Celi LA, Badawi O, Mark RG. eICU Collaborative Research Database, version 2.0. PhysioNet. 2019. DOI: [10.13026/C2WM1R](https://doi.org/10.13026/C2WM1R).
-3. Ma MD, Ye C, Yan Y, et al. CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Test Orders and Prescriptions. 2024. [Project repository](https://github.com/CliBench/CliBench).
-4. Hager P, Jungmann F, Holland R, et al. Evaluation and mitigation of the limitations of large language models in clinical decision-making. *Nature Medicine*. 2024. DOI: [10.1038/s41591-024-03097-1](https://doi.org/10.1038/s41591-024-03097-1). [Dataset-generation repository](https://github.com/paulhager/MIMIC-Clinical-Decision-Making-Dataset).
+1. Johnson AEW, Bulgarelli L, Pollard TJ, et al. MIMIC-IV, version 2.2. PhysioNet. 2023. doi:[10.13026/6mm1-ek67](https://doi.org/10.13026/6mm1-ek67).
+2. Pollard TJ, Johnson AEW, Raffa JD, et al. eICU Collaborative Research Database, version 2.0. PhysioNet. 2019. doi:[10.13026/C2WM1R](https://doi.org/10.13026/C2WM1R).
+3. Ma MD, Ye C, Yan Y, et al. CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Test Orders and Prescriptions. 2024. [Repository](https://github.com/CliBench/CliBench).
+4. Hager P, Jungmann F, Holland R, et al. Evaluation and mitigation of the limitations of large language models in clinical decision-making. *Nature Medicine*. 2024. doi:[10.1038/s41591-024-03097-1](https://doi.org/10.1038/s41591-024-03097-1).
